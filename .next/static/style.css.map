@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./components/Layout/layout.css?6714"],"names":[],"mappings":"AAAA;EACE,8CAA8C;EAC9C,gBAAgB","file":"static/style.css","sourcesContent":[".title {\n  font-family: 'Helvetica', 'Arial', sans-serif;\n  font-size: 24px;\n}\n\n\n// WEBPACK FOOTER //\n// ./components/Layout/layout.css"],"sourceRoot":""}
